@@ -1,0 +1,11 @@
+Traduza as seguintes instruções para  binário e depois para hexadecimal.
+
+a) add $t0, $t1, $t2
+
+b) addi $t0, $zero, 20
+
+c) sll $t0, $t0, 2
+
+d) beq $zero, $t3, 100
+
+e) j 200
